@@ -14,7 +14,7 @@ function MovieTitle() {
       <div>
         Oye, quieres ver
         <p className="flex items-center justify-center font-bold">
-          La temporada Atlanta <p className="text-red-500 ml-2.5"> 3</p>
+          La temporada 3 de <p className="text-red-500 ml-2.5"> Atlanta</p>
         </p>
         conmigo?
         <div className="flex items-center justify-center mt-8 text-2xl">
