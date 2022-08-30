@@ -35,7 +35,8 @@ function MovieTitle() {
           </div>
           <p className="flex items-center justify-center mt-2 text-justify text-medium px-96">
             Se supone que estas son las descripciones de las peliculas, pero...
-            es demasiado largo y surrealista para escribirlo aqui.
+            es demasiado largo y surrealista para escribirlo aqui.                         
+            
             PD: Trae palomitas. 🍿
           </p>
         </div>
