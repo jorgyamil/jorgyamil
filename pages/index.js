@@ -6,7 +6,7 @@ function MovieTitle() {
   const [isNo, setIsNo] = useState();
 
   function submitHandler() {
-    setIsNo("*No se puede :( debe hacer click en si)");
+    setIsNo("*No se puede :( debe hacer click en si");
   }
 
   return (
